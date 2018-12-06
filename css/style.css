@@ -21,7 +21,7 @@ body {
   font-size: 18px;
 }
 
-#year {
+#notbold {
   font-weight: normal;
 }
 
@@ -65,23 +65,13 @@ header li {
   padding: 10px 10px 10px 10px;
 }
 
-/* ~ EDUCATION ~ */
-#degree {
-  font-weight: normal;
-}
-
-/* ~ TRAINING ~ */
-#certification {
-  font-weight: normal;
-}
-
-/* ~ WORK EXPERIENCE ~ */
-#role {
-  font-weight: normal;
-}
-
 /* ~ SKILLS & ATTRIBUTES ~ */
 .skills {
   line-height: 2;
   padding: 10px;
+  font-weight: 600;
+}
+
+#hobbies-interests {
+  margin-bottom: 70px;
 }
