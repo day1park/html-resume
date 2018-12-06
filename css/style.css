@@ -1,0 +1,77 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 0;
+}
+
+/* ~ GLOBAL ~ */
+.container {
+  width: 85%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.sub-title {
+  border-bottom: solid 1px black;
+}
+
+.sub-title h2 {
+  margin-bottom: 0;
+  font-size: 18px;
+}
+
+#notbold {
+  font-weight: normal;
+}
+
+/* ~ GLOBAL TABLES ~ */
+.column {
+  float: left;
+}
+
+.left {
+  width: 35%;
+}
+
+.right {
+  width: 65%;
+}
+
+.row {
+  padding: 2px 5px 2px 5px;
+  display: flex;
+}
+
+/* ~ HEADER ~  */
+header {
+  text-align: center;
+  padding: 10px;
+  min-height: 50px;
+}
+
+header a {
+  color: lightskyblue;
+  font-size: 16px;
+}
+
+header ul {
+  margin: 0;
+  padding: 0;
+}
+
+header li {
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+}
+
+/* ~ SKILLS & ATTRIBUTES ~ */
+.skills {
+  line-height: 2;
+  padding: 10px;
+  font-weight: 600;
+}
+
+#hobbies-interests {
+  margin-bottom: 70px;
+}
