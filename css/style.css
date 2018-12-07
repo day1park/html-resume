@@ -45,6 +45,7 @@ body {
 
 /* ~ HEADER ~  */
 header {
+  display: none;
   text-align: center;
   padding: 10px;
   min-height: 50px;
