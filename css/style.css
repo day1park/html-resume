@@ -21,7 +21,7 @@ body {
   font-size: 18px;
 }
 
-#notbold {
+.notbold {
   font-weight: normal;
 }
 
@@ -72,6 +72,6 @@ header li {
   font-weight: 600;
 }
 
-#hobbies-interests {
+.hobbies-interests {
   margin-bottom: 70px;
 }
